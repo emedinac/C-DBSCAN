@@ -4,22 +4,14 @@ This repository is a code that reproduces results from DBSCAN algorithm implemen
 ## Results
 
 Python results
-<figure>
-    <img width="350" src='/results/python_000.png' />
-</figure>
-|
-<figure>
-    <img width="350" src='/results/python_001.png' />
-</figure>
+
+![]<img width="350" src='/results/python_000.png' /> | ![]<img width="350" src='/results/python_001.png' />
+
 
 C++ results
-<figure>
-    <img width="350" src='/results/C_100.png' />
-</figure>
-|
-<figure>
-    <img width="350" src='/results/C_101.png' />
-</figure>
+
+![]<img width="350" src='/results/C_100.png' /> | ![]<img width="350" src='/results/C_101.png' />
+
 
 ## TODO
 [ ] Accept Eigen input vector
