@@ -14,4 +14,4 @@ C++ results
 
 
 ## TODO
-[ ] Accept Eigen input vector
+[ ] Accept Eigen vector as input 
