@@ -6,7 +6,8 @@ This repository is a code that reproduces results from DBSCAN algorithm implemen
     <img src='/results/python_000.png' />
     <img src='/results/python_001.png' />
     <font size="2">
-    <figcaption> python result </figcaption>
+    <figcaption> Python results
+    </figcaption>
     </font>
 </figure>
 
@@ -14,7 +15,8 @@ This repository is a code that reproduces results from DBSCAN algorithm implemen
     <img src='/results/C_100.png' />
     <img src='/results/C_101.png' />
     <font size="2">
-    <figcaption> C++ result </figcaption>
+    <figcaption> C++ results
+    </figcaption>
     </font>
 </figure>
 
