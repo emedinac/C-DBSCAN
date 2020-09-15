@@ -4,6 +4,7 @@ This repository is a code that reproduces results from DBSCAN algorithm implemen
 ## Results
 <figure>
     <img src='/results/python_000.png' />
+    <img src='/results/python_001.png' />
     <font size="2">
     <figcaption> python result </figcaption>
     </font>
@@ -11,6 +12,7 @@ This repository is a code that reproduces results from DBSCAN algorithm implemen
 
 <figure>
     <img src='/results/C_100.png' />
+    <img src='/results/C_101.png' />
     <font size="2">
     <figcaption> C++ result </figcaption>
     </font>
@@ -18,5 +20,5 @@ This repository is a code that reproduces results from DBSCAN algorithm implemen
 
 
 
-##TODO
-[] Accept Eigen input vector
+## TODO
+[ ] Accept Eigen input vector
